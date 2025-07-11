@@ -1,4 +1,7 @@
 {
+"scripts": {
+  "start": "n8n"
+},
   "name": "n8n-monorepo",
   "version": "1.102.0",
   "private": true,
